@@ -1,4 +1,4 @@
-## Hi there, i'm Swapnil Rai
+## Hi there, i am Swapnil Rai
 
 ### i am currently persuing computer science & engineering
 ### i am a developer and i try to utilize my skills to the fullest
