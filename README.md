@@ -1,12 +1,12 @@
 ## Hi there, i am Swapnil Rai
 
-### i am currently persuing computer science & engineering
-### i am a developer and i try to utilize my skills to the fullest
+### I am currently persuing computer science & engineering
+### I am a developer and i try to utilize my skills to the fullest
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Spring, Django, and ReactJs
 
-[This is my portfolio website](swapnilrai73.github.io)
+[This is my portfolio website](https://swapnilrai73.github.io/)
 
 ### Languages and Tools:
 <p align="left">
